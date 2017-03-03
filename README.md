@@ -270,7 +270,7 @@
 </tr>
 <tr>
 <th>html page size</th>
-<td colspan="2">1.63 kb</td>
+<td>1.63 kb</td>
 <td>this is less than averagethat leads to faster loading</td>
 </tr>
 <tr>
