@@ -38,11 +38,11 @@
 </tr>
 <tr>
 <th>expiration</th>
-<td>days left 3years,11months,5days</td>
+<td colspan="2">days left 3years,11months,5days</td>
 </tr>
 <tr>
 <th>admin email</th>
-<td>marinajmc@gmail.com</td>
+<td colspan="2">marinajmc@gmail.com</td>
 </tr>
 </table>
 </html>
@@ -85,23 +85,23 @@
 </tr>
 <tr>
 <th>expiration</th>
-<td>never</td>
+<td colspan="2">never</td>
 </tr>
 <tr>
 <th>Robots.txt test</th>
-<td>this webpage does not use robots.txt</td>
+<td colspan="2">this webpage does not use robots.txt</td>
 </tr>
 <tr>
 <th>Sitemap</th>
-<td>This webpage contains 1 sitemap</td>
+<td colspan="2">This webpage contains 1 sitemap</td>
 </tr>
 <tr>
 <th>Broken links</th>
-<td>this webpage does not contains any broken links</td>
+<td colspan="2">this webpage does not contains any broken links</td>
 </tr>
 <tr>
 <th>Underscores</th>
-<td>this webpage does not contains any underscore</td>
+<td colspan="2">this webpage does not contains any underscore</td>
 </tr>
 <tr>
 <th>seo friendly</th>
@@ -110,10 +110,10 @@
 </tr>
 <tr>
 <th>Image alt</th>
-<td>it contains 6 image tags  all of them contain alt attribute</td>
+<td colspan="2">it contains 6 image tags  all of them contain alt attribute</td>
 </tr>
 <tr>
-<th>HTML Deprecated tags</th>
+<th colspan="2">HTML Deprecated tags</th>
 <td>there is no deprecated HTML tag</td>
 </tr>
 <tr>
@@ -123,15 +123,15 @@
 </tr>
 <tr>
 <th>links</th>
-<td>it contains 7 links</td>
+<td colspan="2">it contains 7 links</td>
 </tr>
 <tr>
 <th>domain</th>
-<td>du.ac</td>
+<td colspan="2">du.ac</td>
 </tr>
 <tr>
 <th>SEO Score</th>
-<td>95%</td>
+<td colspan="2">95%</td>
 </tr>
 </table>
 </html>
@@ -174,19 +174,19 @@
 </tr>
 <tr>
 <th>Robots.txt test</th>
-<td>this webpage use robots.txt</td>
+<td colspan="2">this webpage use robots.txt</td>
 </tr>
 <tr>
 <th>Sitemap</th>
-<td>This webpage contains 1 sitemap</td>
+<td colspan="2">This webpage contains 1 sitemap</td>
 </tr>
 <tr>
 <th>Broken links</th>
-<td>this webpage does not contains any broken links</td>
+<td colspan="2">this webpage does not contains any broken links</td>
 </tr>
 <tr>
 <th>Underscores</th>
-<td>this webpage does not contains any underscore</td>
+<td colspan="2">this webpage does not contains any underscore</td>
 </tr>
 <tr>
 <th>html page size</th>
@@ -195,23 +195,23 @@
 </tr>
 <tr>
 <th>created on</th>
-<td>20april,2005</td>
+<td colspan="2">20april,2005</td>
 </tr>
 <tr>
 <th>last updated</th>
-<td>20 april,2016</td>
+<td colspan="2">20 april,2016</td>
 </tr>
 <tr>
 <th>admin name</th>
-<td>Rickson</td>
+<td colspan="2">Rickson</td>
 </tr>
 <tr>
 <th>expiration</th>
-<td>20 april,2017</td>
+<td colspan="2">20 april,2017</td>
 </tr>
 <tr>
 <th>admin email</th>
-<td>rickson@yahoo.com</td>
+<td colspan="2">rickson@yahoo.com</td>
 </tr>
 </table>
 </html>
@@ -254,23 +254,23 @@
 </tr>
 <tr>
 <th>Robots.txt test</th>
-<td>this webpage use robots.txt</td>
+<td colspan="2">this webpage use robots.txt</td>
 </tr>
 <tr>
 <th>Sitemap</th>
-<td>This webpage contains 1 sitemap</td>
+<td colspan="2">This webpage contains 1 sitemap</td>
 </tr>
 <tr>
 <th>Broken links</th>
-<td>this webpage does not contains any broken links</td>
+<td colspan="2">this webpage does not contains any broken links</td>
 </tr>
 <tr>
 <th>Underscores</th>
-<td>this webpage does not contains any underscore</td>
+<td colspan="2">this webpage does not contains any underscore</td>
 </tr>
 <tr>
 <th>html page size</th>
-<td>1.63 kb</td>
+<td colspan="2">1.63 kb</td>
 <td>this is less than averagethat leads to faster loading</td>
 </tr>
 <tr>
@@ -280,23 +280,23 @@
 </tr>
 <tr>
 <th>deprecated HTML tags</th>
-<td>this contains deprecated HTML tags</td>
+<td colspan="2">this contains deprecated HTML tags</td>
 </tr>
 <tr>
 <th>favicon</th>
-<td>no favicon test</td>
+<td colspan="2">no favicon test</td>
 </tr>
 <tr>
 <th>created on</th>
-<td>7feb,1994</td>
+<td colspan="2">7feb,1994</td>
 </tr>
 <tr>
 <th>expiration</th>
-<td>8feb,2027</td>
+<td colspan="2">8feb,2027</td>
 </tr>
 <tr>
 <th>admin email</th>
-<td>netsol@semonche.com</td>
+<td colspan="2">netsol@semonche.com</td>
 </tr>
 </table>
 </html>
@@ -339,19 +339,19 @@
 </tr>
 <tr>
 <th>Robots.txt test</th>
-<td>this webpage use robots.txt</td>
+<td colspan="2">this webpage use robots.txt</td>
 </tr>
 <tr>
 <th>Sitemap</th>
-<td>This webpage contains 1 sitemap</td>
+<td colspan="2">This webpage contains 1 sitemap</td>
 </tr>
 <tr>
 <th>Broken links</th>
-<td>this webpage does not contains any broken links</td>
+<td colspan="2">this webpage does not contains any broken links</td>
 </tr>
 <tr>
 <th>Underscores</th>
-<td>this webpage does not contains any underscore</td>
+<td colspan="2">this webpage does not contains any underscore</td>
 </tr>
 <tr>
 <th>html page size</th>
@@ -360,11 +360,11 @@
 </tr>
 <tr>
 <th>depricated HTML tags</th>
-<td>does not contain any depricated HTML Tag</td>
+<td colspan="2">does not contain any depricated HTML Tag</td>
 </tr>
 <tr>
 <th>Favicon</th>
-<td>it contains favicon tests</td>
+<td colspan="2">it contains favicon tests</td>
 </tr>
 <tr>
 <th>Registration</th>
