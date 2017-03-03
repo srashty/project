@@ -1,6 +1,6 @@
 # project
 <html>
-<table background="https://www.facebook.com/166930333404150/photos/273037792793403/" name="JMC">
+<table background="https://www.facebook.com/166930333404150/photos/273037792793403/" >
 <tr>
 <th colspan="3">JMC</th>
 </tr>
@@ -50,7 +50,7 @@
 </table>
 </html>
 <html>
-<table backgroung="https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjJ7ezC_7rSAhWDuo8KHcLnBjcQjRwIBQ&url=http%3A%2F%2Fdu.ac.in%2F&psig=AFQjCNEua9JIEYveUfoL8rRcWVoxiNtNpA&ust=1488653217195506" name="DU">
+<table backgroung="https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjJ7ezC_7rSAhWDuo8KHcLnBjcQjRwIBQ&url=http%3A%2F%2Fdu.ac.in%2F&psig=AFQjCNEua9JIEYveUfoL8rRcWVoxiNtNpA&ust=1488653217195506" >
 <tr>
 <th colspan="3">Delhi University</th>
 </tr><tr>
@@ -141,7 +141,7 @@
 </table>
 </html>
 <html>
-<table background="https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiRxOHz_7rSAhULQo8KHYK4C38QjRwIBw&url=https%3A%2F%2Fwww.consumercomplaints.in%2Findian-railway-catering-tourism-corporation-irctc-b100086&psig=AFQjCNGKKJEr91BZdP4NegxvGd_f9hg2Uw&ust=1488653259750048" name="irctc">
+<table background="https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiRxOHz_7rSAhULQo8KHYK4C38QjRwIBw&url=https%3A%2F%2Fwww.consumercomplaints.in%2Findian-railway-catering-tourism-corporation-irctc-b100086&psig=AFQjCNGKKJEr91BZdP4NegxvGd_f9hg2Uw&ust=1488653259750048" >
 <tr>
 <th colspan="3">IRCTC</th>
 </tr><tr>
@@ -311,7 +311,7 @@
 </table>
 </html>
 <html>
-<table background="https://www.google.co.in/imgres?imgurl=https%3A%2F%2Fmygov.in%2Fsites%2Fdefault%2Ffiles%2Fmaster_image%2Fmygov_fb_banner.jpg&imgrefurl=https%3A%2F%2Fmygov.in%2F&docid=I5o8qPwV49IB9M&tbnid=FAU7nCaY3JzUnM%3A&vet=1&w=1200&h=627&bih=638&biw=1366&q=Images%20for%20mygov&ved=0ahUKEwj46KClgLvSAhUHpY8KHRtiD78QMwgdKAIwAg&iact=mrc&uact=8" name="mygov">
+<table background="https://www.google.co.in/imgres?imgurl=https%3A%2F%2Fmygov.in%2Fsites%2Fdefault%2Ffiles%2Fmaster_image%2Fmygov_fb_banner.jpg&imgrefurl=https%3A%2F%2Fmygov.in%2F&docid=I5o8qPwV49IB9M&tbnid=FAU7nCaY3JzUnM%3A&vet=1&w=1200&h=627&bih=638&biw=1366&q=Images%20for%20mygov&ved=0ahUKEwj46KClgLvSAhUHpY8KHRtiD78QMwgdKAIwAg&iact=mrc&uact=8" >
 <tr>
 <th colspan="3">Mygov</th>
 </tr><tr>
