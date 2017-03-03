@@ -1,6 +1,6 @@
 # project
 <html>
-<table bg="jmc.jpg" name="JMC">
+<table background="https://www.facebook.com/166930333404150/photos/273037792793403/" name="JMC">
 <tr>
 <th>DETAIL</th>
 <th>REQUIREMENT</th>
@@ -47,7 +47,7 @@
 </table>
 </html>
 <html>
-<table bg="du.jpg" name="DU">
+<table backgroung="https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjJ7ezC_7rSAhWDuo8KHcLnBjcQjRwIBQ&url=http%3A%2F%2Fdu.ac.in%2F&psig=AFQjCNEua9JIEYveUfoL8rRcWVoxiNtNpA&ust=1488653217195506" name="DU">
 <tr>
 <th>DETAIL</th>
 <th>REQUIREMENT</th>
@@ -136,7 +136,7 @@
 </table>
 </html>
 <html>
-<table bg="irctc.jpg" name="irctc">
+<table background="https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiRxOHz_7rSAhULQo8KHYK4C38QjRwIBw&url=https%3A%2F%2Fwww.consumercomplaints.in%2Findian-railway-catering-tourism-corporation-irctc-b100086&psig=AFQjCNGKKJEr91BZdP4NegxvGd_f9hg2Uw&ust=1488653259750048" name="irctc">
 <tr>
 <th>DETAIL</th>
 <th>REQUIREMENT</th>
@@ -216,7 +216,7 @@
 </table>
 </html>
 <html>
-<table bg="nic.jpg">
+<table background="https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiRko2RgLvSAhXKNo8KHSC3CBIQjRwIBw&url=http%3A%2F%2Fakola.nic.in%2Fvm1.html&psig=AFQjCNFb4KIXZ-ooskcpfx6K_z10R7eYtw&ust=1488653375286426">
 <tr>
 <th>DETAIL</th>
 <th>REQUIREMENT</th>
@@ -301,7 +301,7 @@
 </table>
 </html>
 <html>
-<table bg="mygov.jpg" name="mygov">
+<table background="https://www.google.co.in/imgres?imgurl=https%3A%2F%2Fmygov.in%2Fsites%2Fdefault%2Ffiles%2Fmaster_image%2Fmygov_fb_banner.jpg&imgrefurl=https%3A%2F%2Fmygov.in%2F&docid=I5o8qPwV49IB9M&tbnid=FAU7nCaY3JzUnM%3A&vet=1&w=1200&h=627&bih=638&biw=1366&q=Images%20for%20mygov&ved=0ahUKEwj46KClgLvSAhUHpY8KHRtiD78QMwgdKAIwAg&iact=mrc&uact=8" name="mygov">
 <tr>
 <th>DETAIL</th>
 <th>REQUIREMENT</th>
