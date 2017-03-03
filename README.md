@@ -118,8 +118,8 @@
 <td colspan="2">it contains 6 image tags  all of them contain alt attribute</td>
 </tr>
 <tr>
-<th colspan="2">HTML Deprecated tags</th>
-<td>there is no deprecated HTML tag</td>
+<th>HTML Deprecated tags</th>
+<td colspan="2">there is no deprecated HTML tag</td>
 </tr>
 <tr>
 <th>HTML page size</th>
