@@ -1,6 +1,6 @@
 # project
 <html>
-<table background="https://www.facebook.com/166930333404150/photos/273037792793403/" >
+<table background=http://www.jmc.ac.in/images/home-banner.jpg>
 <tr>
 <th colspan="3">JMC</th>
 </tr>
